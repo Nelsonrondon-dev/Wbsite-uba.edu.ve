@@ -86,7 +86,7 @@ Website responsive  developed for the  Universidad Bicentenaria de Aragua (UBA)
 
 ## Screenshots Project
 
-![apoyofinancieropy.com](https://nelson-dev.tech/img/landing/Wbsite-uba.edu.ve.png)
+![uba.edu.ve](https://nelson-dev.tech/img/landing/Wbsite-uba.edu.ve.png)
 
 
 
