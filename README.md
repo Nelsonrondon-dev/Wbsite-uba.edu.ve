@@ -73,7 +73,7 @@ Website responsive  developed for the  Universidad Bicentenaria de Aragua (UBA)
 
 ## APP Public
 
-[uba.edu.ve](https://uba.edu.ve)
+[uba.edu.ve](http://uba.edu.ve)
 
 
 ## Tech Stack
